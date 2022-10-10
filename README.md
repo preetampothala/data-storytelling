@@ -1,3 +1,3 @@
 # data-storytelling
 
-## This is documentation
+This is documentation for the class "Data Storytelling"
